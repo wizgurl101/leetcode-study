@@ -1,0 +1,3 @@
+package slidingWindow
+
+func main() {}
